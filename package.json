@@ -1,0 +1,19 @@
+{
+  "name": "bookshelt-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurikbal15/bookshelt-api-submissiondcd.git"
+  },
+  "author": "Nurikbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurikbal15/bookshelt-api-submissiondcd/issues"
+  },
+  "homepage": "https://github.com/nurikbal15/bookshelt-api-submissiondcd#readme"
+}
